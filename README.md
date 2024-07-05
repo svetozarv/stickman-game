@@ -1,7 +1,7 @@
 ![](https://github.com/svetozarv/stickman-game/assets/106545363/bf186a4a-2c3a-42f7-b040-e043cd7d6abd)
 
-Stickman Runs to the Exit is a platformer game where you control a stick-man to reach the exit door.
-The game is created using Python and Tkinter
+Stickman Runs to the Exit is a platformer where you control a stick-man to reach the exit door.
+The game is created using Python and Tkinter. *Very challenging.*
 
 
 ## How to Play
@@ -16,7 +16,7 @@ The game is created using Python and Tkinter
 ## How to run
 1. Clone the git repository
 ```
-git clone 
+git clone https://github.com/svetozarv/stickman-game.git
 ```
 2. Navigate into created directory and run:
 ```
